@@ -70,8 +70,6 @@ The server will run on `http://localhost:5000`
 }
 ```
 
-**Image Representation:**
-![User Registration Flow](https://via.placeholder.com/800x400.png?text=User+Registration+Flow)
 
 ---
 
@@ -93,9 +91,6 @@ The server will run on `http://localhost:5000`
 }
 ```
 
-**Image Representation:**
-![User Login Flow](https://via.placeholder.com/800x400.png?text=User+Login+Flow)
-
 ---
 
 ## 🌍 Deployment to GitHub
@@ -114,10 +109,7 @@ git branch -M main
 git push -u origin main
 ```
 
-**Image Representation:**
-![GitHub Deployment Steps](https://via.placeholder.com/800x400.png?text=GitHub+Deployment+Steps)
 
----
 
 ## 📷 Project Overview
 ### 📌 Folder Structure
@@ -130,16 +122,7 @@ git push -u origin main
 │-- 📁 node_modules/
 ```
 
-**Image Representation:**
-![Folder Structure](https://via.placeholder.com/800x400.png?text=Project+Folder+Structure)
 
-### 🔹 API Flow Diagram
-![API Flow](https://via.placeholder.com/800x400.png?text=API+Flow+Diagram)
-
-### 🔹 Registration & Login UI (If applicable)
-![UI Example](https://via.placeholder.com/800x400.png?text=Registration+and+Login+UI)
-
----
 
 ## 🛠 Technologies Used
 - **Node.js** - JavaScript runtime
