@@ -70,6 +70,9 @@ The server will run on `http://localhost:5000`
 }
 ```
 
+**Image Representation:**
+![User Registration Flow](https://via.placeholder.com/800x400.png?text=User+Registration+Flow)
+
 ---
 
 ### 🔹 User Login
@@ -90,6 +93,9 @@ The server will run on `http://localhost:5000`
 }
 ```
 
+**Image Representation:**
+![User Login Flow](https://via.placeholder.com/800x400.png?text=User+Login+Flow)
+
 ---
 
 ## 🌍 Deployment to GitHub
@@ -108,6 +114,9 @@ git branch -M main
 git push -u origin main
 ```
 
+**Image Representation:**
+![GitHub Deployment Steps](https://via.placeholder.com/800x400.png?text=GitHub+Deployment+Steps)
+
 ---
 
 ## 📷 Project Overview
@@ -120,6 +129,9 @@ git push -u origin main
 │-- 📄 README.md
 │-- 📁 node_modules/
 ```
+
+**Image Representation:**
+![Folder Structure](https://via.placeholder.com/800x400.png?text=Project+Folder+Structure)
 
 ### 🔹 API Flow Diagram
 ![API Flow](https://via.placeholder.com/800x400.png?text=API+Flow+Diagram)
@@ -150,12 +162,11 @@ git push -u origin main
 
 ## 📝 License
 This project is open-source and available under the MIT License.
-and made by Tejashwin S 
 
 ---
 
 📧 Need help? Feel free to reach out!
-email at tejashwin2004teju@gmail.com
-phone 7795500636
-insta @faceofteju 
 
+mail tejashwin2004teju@gmail.com
+mobile 7795500636
+insta @faceofteju
